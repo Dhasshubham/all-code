@@ -1,12 +1,12 @@
 # list
-"""marks = [66.7, 77,8, 99.0, 89.0, 23.6] # list is mmutable 
+marks = [66.7, 77,8, 99.0, 89.0, 23.6] # list is mmutable 
 print(marks)
-print(type(marks))"""
+print(type(marks))
 
 # list indexing
 
 
-Student = ["shubham", "dhas", 98, 100.89,"yogesh"] # list mdhe multiple type gheu shakto
+Student = ["shubham", "dhas", 98, 100.89,"yogesh"] 
 print(Student)
 print(type(Student))
 Student[0]= "Tejas"
